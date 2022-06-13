@@ -7,3 +7,5 @@
 A Sudoku game created with PYGAME. If unable to complete the board's answer can be revealed with the solve button. The answer is created with a backtracking recursive algorithm.
 
 <h2 align="left">Play</h2>
+
+1. **Clone repository and install Pygame**
