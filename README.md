@@ -11,5 +11,12 @@ A Sudoku game created with PYGAME. If unable to complete the board's answer can 
 1. **Clone repository and install Pygame**
 ``` 
 git clone https://github.com/cristory2000/Sudoku.git
-pip3 install pygame 
+pip3 install pygame (mac)
+```
+2. **Change Sudoku Board**
+Edit Board in sudoku.py
+
+3. **Run**
+```
+python3 gui.py (mac)
 ```
