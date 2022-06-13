@@ -15,7 +15,7 @@ pip3 install pygame (mac)
 ```
 2. **Change Sudoku Board**
 
-Edit Board in sudoku.py
+    Edit Board in sudoku.py
 
 3. **Run**
 ```
