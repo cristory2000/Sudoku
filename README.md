@@ -5,3 +5,5 @@
 <h1 align="center">Sudoku</h1>
 
 A Sudoku game created with PYGAME. If unable to complete the board's answer can be revealed with the solve button. The answer is created with a backtracking recursive algorithm.
+
+<h1 align="center">Play/h1>
