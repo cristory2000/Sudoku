@@ -14,6 +14,7 @@ git clone https://github.com/cristory2000/Sudoku.git
 pip3 install pygame (mac)
 ```
 2. **Change Sudoku Board**
+
 Edit Board in sudoku.py
 
 3. **Run**
