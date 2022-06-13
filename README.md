@@ -9,3 +9,5 @@ A Sudoku game created with PYGAME. If unable to complete the board's answer can 
 <h2 align="left">Play</h2>
 
 1. **Clone repository and install Pygame**
+``` git clone https://github.com/cristory2000/Sudoku.git
+pip3 install pygame```
